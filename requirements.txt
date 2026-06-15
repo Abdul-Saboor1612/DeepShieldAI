@@ -1,0 +1,17 @@
+torch
+torchvision
+opencv-python
+facenet-pytorch
+numpy
+pandas
+matplotlib
+scikit-learn
+albumentations
+tqdm
+tensorboard
+timm
+pillow
+grad-cam
+fastapi
+uvicorn 
+python-multipart

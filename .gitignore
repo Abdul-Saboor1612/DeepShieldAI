@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Uploads
+uploads/
+
+# Outputs
+outputs/
+
+# Dataset
+datasets/
+
+# Mac
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models (optional)
+# models/*.pth

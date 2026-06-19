@@ -40,12 +40,19 @@ Place the downloaded model inside:
 models/
 ```
 
-Example:
+## Tech Stack
 
-```text
-models/
-├── exp002_best_model.pth
-└── exp007_best_model.pth
-```
+- Python
+- PyTorch
+- OpenCV
+- FastAPI
+- EfficientNet-B0
+- Grad-CAM
+- FFmpeg
 
-Then update the model path in the configuration or inference script accordingly.
+## Future Work
+
+- Temporal transformers for video analysis
+- Multi-modal deepfake detection
+- Real-time inference optimization
+- Research publication and benchmarking
